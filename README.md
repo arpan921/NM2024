@@ -1,8 +1,10 @@
 # Numerical Methods for Natural Sciences: Foundation Topics (January-April semester 2024)
 
-The best way to use this material is by forking it by clicking the Fork button at the top right corner. Then, you will get your copy to play with!
+This repository will be updated as the course progresses. 
 
-Click the image below to access the presentation PDF
+The best way to use this material is by forking it. Click the Fork button at the top right corner. Then, you will get your copy to play with!
+
+Click the image below to access the presentation PDF.
 
 ![](https://github.com/raghurama123/NM2024/blob/main/NM2024_10Jan2024.pdf)
 <a href="https://github.com/raghurama123/NM2024/blob/main/NM2024_10Jan2024.pdf">
