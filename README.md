@@ -6,8 +6,8 @@ The best way to use this material is by forking it. Click the Fork button at the
 
 Click the image below to access the presentation PDF.
 
-![](https://github.com/raghurama123/NM2024/blob/main/NM2024_10Jan2024.pdf)
-<a href="https://github.com/raghurama123/NM2024/blob/main/NM2024_10Jan2024.pdf">
+![](https://github.com/raghurama123/NM2024/blob/main/NM2024.pdf)
+<a href="https://github.com/raghurama123/NM2024/blob/main/NM2024.pdf">
 <img src="https://github.com/raghurama123/NM2024/blob/main/FirstPage.png"  height="500">
 </a>
 
